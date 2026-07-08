@@ -23,22 +23,22 @@
 
 **HDL & Verification**
 
-![Verilog](https://img.shields.io/badge/Verilog-1f6feb?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-004088?style=flat-square)
-![UVM](https://img.shields.io/badge/UVM-6f42c1?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-1f6feb?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-004088?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-6f42c1?style=for-the-badge)
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Design & FPGA / AI**
 
-![Vivado](https://img.shields.io/badge/Vivado-e48e00?style=flat-square&logo=xilinx&logoColor=white)
-![Basys3](https://img.shields.io/badge/Basys3%20FPGA-e48e00?style=flat-square)
-![YOLO11](https://img.shields.io/badge/YOLO11-00b0ff?style=flat-square)
-![TensorRT](https://img.shields.io/badge/TensorRT-76b900?style=flat-square&logo=nvidia&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-6f42c1?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-e48e00?style=for-the-badge&logo=xilinx&logoColor=white)
+![Basys3](https://img.shields.io/badge/Basys3%20FPGA-e48e00?style=for-the-badge)
+![YOLO11](https://img.shields.io/badge/YOLO11-00b0ff?style=for-the-badge)
+![TensorRT](https://img.shields.io/badge/TensorRT-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-6f42c1?style=for-the-badge)
 
 **EDA Tools (Synopsys)** — ASIC Front-to-Back 전 과정 사용
 
