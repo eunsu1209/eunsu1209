@@ -34,7 +34,7 @@
 
 **EDA Tools (Synopsys)**
 
-![Design Compiler](https://img.shields.io/badge/Design%20Compiler-合成-cc0000?style=flat-square)
+![Design Compiler](https://img.shields.io/badge/Design%20Compiler-합성-cc0000?style=flat-square)
 ![PrimeTime](https://img.shields.io/badge/PrimeTime-STA-cc0000?style=flat-square)
 ![Formality](https://img.shields.io/badge/Formality-등가성-cc0000?style=flat-square)
 ![IC Compiler II](https://img.shields.io/badge/IC%20Compiler%20II-PnR-cc0000?style=flat-square)
@@ -89,12 +89,6 @@
 
 ### 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-dmstn7148@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmstn7148@gmail.com)
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunsu1209&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunsu1209&layout=compact&hide_border=true)
+[![Email](https://img.shields.io/badge/dmstn7148@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dmstn7148@gmail.com)
 
 </div>
