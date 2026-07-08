@@ -23,30 +23,32 @@
 
 **HDL & Verification**
 
-![Verilog](https://img.shields.io/badge/Verilog-1f6feb?style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-004088?style=for-the-badge)
-![UVM](https://img.shields.io/badge/UVM-6f42c1?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-1f6feb?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-004088?style=flat-square)
+![UVM](https://img.shields.io/badge/UVM-6f42c1?style=flat-square)
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**EDA Tools (Synopsys)**
+**Design & FPGA / AI**
 
-![Design Compiler](https://img.shields.io/badge/Design%20Compiler-합성-cc0000?style=flat-square)
-![PrimeTime](https://img.shields.io/badge/PrimeTime-STA-cc0000?style=flat-square)
-![Formality](https://img.shields.io/badge/Formality-등가성-cc0000?style=flat-square)
-![IC Compiler II](https://img.shields.io/badge/IC%20Compiler%20II-PnR-cc0000?style=flat-square)
-![StarRC](https://img.shields.io/badge/StarRC-기생추출-cc0000?style=flat-square)
+![Vivado](https://img.shields.io/badge/Vivado-e48e00?style=flat-square&logo=xilinx&logoColor=white)
+![Basys3](https://img.shields.io/badge/Basys3%20FPGA-e48e00?style=flat-square)
+![YOLO11](https://img.shields.io/badge/YOLO11-00b0ff?style=flat-square)
+![TensorRT](https://img.shields.io/badge/TensorRT-76b900?style=flat-square&logo=nvidia&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-6f42c1?style=flat-square)
 
-**Design & AI**
+**EDA Tools (Synopsys)** — ASIC Front-to-Back 전 과정 사용
 
-![Vivado](https://img.shields.io/badge/Vivado-FPGA-e48e00?style=flat-square)
-![Basys3](https://img.shields.io/badge/Basys3-FPGA-e48e00?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO11-00b0ff?style=flat-square)
-![TensorRT](https://img.shields.io/badge/TensorRT-76b900?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-LLM-6f42c1?style=flat-square)
+| 설계 단계 | 사용 툴 |
+|-----------|---------|
+| 합성 (Synthesis) | Design Compiler |
+| 정적 타이밍 분석 (STA) | PrimeTime |
+| 논리 등가성 검증 | Formality |
+| 배치·배선 (P&R) | IC Compiler II |
+| 기생 성분 추출 (RC Extraction) | StarRC |
 
 ---
 
