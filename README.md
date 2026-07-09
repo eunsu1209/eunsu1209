@@ -62,9 +62,8 @@
 | [**spi-i2c-uvm-verification**](https://github.com/eunsu1209/spi-i2c-uvm-verification) | SPI·I2C 프로토콜 UVM 검증 (커버리지 100%) | SystemVerilog · UVM · Coverage |
 | [**uart-sensor-fpga**](https://github.com/eunsu1209/uart-sensor-fpga) | UART Sender로 센서 데이터 PC 전송 | UART · FIFO · FSM/ASM |
 | [**blind-walk-navigation-yolo**](https://github.com/eunsu1209/blind-walk-navigation-yolo) | 시각장애인 온디바이스 AI 도보 내비게이션 | YOLO · TensorRT · Ollama · Jetson |
+| [**asic-flow-saed32nm**](https://github.com/eunsu1209/asic-flow-saed32nm) | ASIC Front-to-Back 설계 | SIM→SYN→STA→PnR→GDS |
 
-> 이 외에도 Synopsys SAED32nm 공정으로 **SIM→SYN→STA→PnR→GDS** 전 과정을 수행한
-> **ASIC Front-to-Back 설계**와 **PLL·IO Cell 추가 Front-End** 프로젝트를 진행했습니다.
 
 ---
 
